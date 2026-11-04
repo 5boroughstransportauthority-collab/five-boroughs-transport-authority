@@ -1,0 +1,87 @@
+.icon-heartbeat {
+  display: none;
+}
+:root {
+    --blue: #007bff;
+    --indigo: #6610f2;
+    --purple: #6f42c1;
+\t--pink: #397097;}
+.single-features-style1 .icon-holder span:before {
+\tcolor: #397097; 
+}
+:root {
+    --thm-base: #397097;
+    --thm-base-rgb: 238, 41, 106;
+}
+.single-features-style1:hover .icon-holder .box{
+background-color: #397097 !important;
+}
+/* .breadcrumb-area .inner-content {
+    position: relative;
+    display: block;
+\tpadding: 0;} */
+#fbta-splash-screen {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: #0A3D91;
+    z-index: 999999;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#fbta-splash-gif {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+#fbta-splash-close {
+    position: absolute;
+    top: 20px;
+    right: 25px;
+    font-size: 36px;
+    color: #ffffff;
+    cursor: pointer;
+    z-index: 1000000;
+    font-weight: 300;
+}
+.slogan-img-box:before {
+    content: "";
+    position: absolute;
+    top: -50px;
+    left: -150px;
+    bottom: -50px;
+    right: 0;
+    width: 475px;
+    height: 475px;
+\tbackground: #397097;}
+
+.slogan-img-box:before {
+    display: none !important;
+}
+.fa-spin {
+    animation: none !important;
+}
+.loading-icon.fa-spin {
+    animation: none !important;
+    transform: none !important;
+}
+.fa-spin {
+    animation: none !important;
+    transform: none !important;
+}
+.fa-spin {
+    animation: fa-spin 2s infinite linear;
+    transform: rotate(30.4815deg);
+}
+.your-icon-class.fa-spin {
+    animation: none !important;
+    transform: none !important;
+}
+.slogan-img-box:after {
+    display: none !important;
+}

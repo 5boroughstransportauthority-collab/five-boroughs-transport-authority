@@ -1,0 +1,173 @@
+{
+  "test_date": "2026-11-03",
+  "publication_status": "ready for separate GitHub Pages deployment testing; hosted-origin submission, outgoing business mail and email-hosting continuity remain outstanding",
+  "static_checks": {
+    "content_pages": 53,
+    "html_files": 61,
+    "local_links_checked": 2267,
+    "asset_references_checked": 2455,
+    "fragment_links_checked": 85,
+    "total_form_elements": 12,
+    "form_types": {
+      "contact": 6,
+      "comment": 3,
+      "search": 3
+    },
+    "original_asset_hashes_verified": 100,
+    "external_domains": [
+      "tkwebhosts.co.uk",
+      "www.google.com"
+    ],
+    "scripts": [
+      "../../assets/config.js",
+      "../../assets/forms.js",
+      "../../assets/site.js",
+      "../assets/config.js",
+      "../assets/forms.js",
+      "../assets/search-index.js",
+      "../assets/site.js",
+      "./assets/config.js",
+      "./assets/forms.js",
+      "./assets/site.js"
+    ],
+    "issues": [],
+    "restored_font_hashes_verified": 11,
+    "font_license_hashes_verified": 3,
+    "allowed_submission_origins": [
+      "https://script.google.com",
+      "https://script.googleusercontent.com"
+    ]
+  },
+  "security_checks": {
+    "known_secret_values_checked": 16,
+    "files_scanned": 225,
+    "secret_matches": [],
+    "pattern_matches": [],
+    "original_backup_sha256": "1c995ba461f532292593ee23f72911e1b74522fb5d66d1ddddd8d85c4047366a",
+    "original_backup_unchanged": true
+  },
+  "browser_render_checks": {
+    "browser": "Chromium",
+    "content_pages": 53,
+    "widths_css_pixels": [
+      390,
+      768,
+      1440
+    ],
+    "rendered_page_sizes": 159,
+    "failed_page_sizes": 0,
+    "broken_images": 0,
+    "distorted_images": 0,
+    "visible_overflow_findings": 0,
+    "captured_site_javascript_errors": 0,
+    "local_font_load_errors": 0,
+    "rerun_after_google_adapter_change": true
+  },
+  "interaction_checks": {
+    "passed": 15,
+    "total": 15,
+    "delivery_attempted": false
+  },
+  "visual_spot_checks": [
+    "homepage desktop and phone",
+    "About desktop",
+    "job listings desktop",
+    "contact tablet",
+    "medical transportation phone"
+  ],
+  "limitations": [
+    "Basic abuse controls only; no CAPTCHA or IP-based filtering; public endpoint can exhaust shared quota",
+    "Google consumer email quota currently 100 recipients/day, subject to change and other script usage",
+    "No original browser screenshots for pixel comparison",
+    "Current font families restored; historical binary versions unknown",
+    "No live GitHub Pages deployment test",
+    "No physical-device or cross-browser test",
+    "Source content accuracy not independently verified",
+    "Browser CORS/redirect acknowledgement verified from a local HTTP preview, not the intended GitHub Pages HTTPS origin",
+    "Outgoing business-mail delivery and hosting cancellation continuity remain unverified"
+  ],
+  "form_and_font_checks": {
+    "passed": 54,
+    "total": 54,
+    "all_six_contact_instances_checked": true,
+    "all_three_comment_instances_checked": true,
+    "external_delivery_tested": false,
+    "request_responses_simulated": true,
+    "protocol": "fbta-contact-v1"
+  },
+  "font_restoration": {
+    "families": [
+      "Kumbh Sans",
+      "Catamaran",
+      "Caveat"
+    ],
+    "official_files": 11,
+    "licenses": 3,
+    "font_bytes": 397192,
+    "local_loading_verified": true,
+    "historical_binary_versions_verified": false
+  },
+  "email_checks": {
+    "public_dns_checked": true,
+    "independent_mx_resolvers": 2,
+    "mx": "1 pixel.tkwebhosts.com.",
+    "inbox_receipt_tested": true,
+    "outgoing_delivery_tested": false,
+    "hosting_cancellation_continuity_verified": false,
+    "inbox_receipt_verified": true,
+    "dns_or_mailbox_configuration_changed": false
+  },
+  "visual_spot_checks_after_font_restoration": [
+    "homepage desktop and phone",
+    "contact tablet"
+  ],
+  "google_receiver_checks": {
+    "passed": 56,
+    "total": 56,
+    "google_services_mocked": true,
+    "real_emails_sent": 0,
+    "scope": "Historical offline logic tests; Google services were mocked. Live results are recorded separately."
+  },
+  "live_google_form_checks": {
+    "deployed": true,
+    "deployment_version": 1,
+    "runtime_authorized": true,
+    "anonymous_health_passed": true,
+    "invalid_submission_rejected": true,
+    "form_endpoint_configured": true,
+    "comments_reuse_contact_endpoint": true,
+    "new_test_messages_submitted": 2,
+    "contact": {
+      "request_id": "76e4f2b1-7560-4cdc-bd47-1ae42503b4e6",
+      "acknowledged": true,
+      "inbox_receipt_verified": true
+    },
+    "comment": {
+      "request_id": "4f50af34-e092-4bde-9d99-a87404573eee",
+      "acknowledged": true,
+      "inbox_receipt_verified": true
+    },
+    "browser": {
+      "real_network_request": true,
+      "scope": "local HTTP preview; replay of previously accepted contact request",
+      "http_status": 200,
+      "response_type": "cors",
+      "final_response_origin": "https://script.googleusercontent.com",
+      "protocol_and_request_id_matched": true,
+      "reused_existing_request_id": true,
+      "intended_production_https_origin_tested": false
+    },
+    "evidence": "Direct endpoint responses, user-provided mailbox screenshots matching both reference numbers, and observed browser response."
+  },
+  "configured_form_browser_checks": {
+    "passed": 9,
+    "total": 9,
+    "pages": 8,
+    "contact_forms": 6,
+    "comment_forms": 3,
+    "exact_deployed_endpoint_loaded": true,
+    "all_forms_initialized": true,
+    "form_submissions": 0,
+    "scope": "Real browser loads from a local preview after the configuration update"
+  }
+}

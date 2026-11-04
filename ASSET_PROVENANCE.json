@@ -1,0 +1,895 @@
+{
+  "source_archive": "backup-11.2.2026_01-36-55_fiveboroughstran.tar.gz",
+  "source_archive_sha256": "1c995ba461f532292593ee23f72911e1b74522fb5d66d1ddddd8d85c4047366a",
+  "assets": {
+    "wp-content/themes/ambons-wp-full/ambons/assets/fonts/flaticon.eot": {
+      "target": "assets/original/themes/ambons-wp-full/ambons/assets/fonts/flaticon.eot",
+      "sha256": "480c4320118bd6541fef108000fdaeaabd68b18d32a42ecd68ce2dd1c0d72c1b",
+      "size": 54072,
+      "dimensions": null
+    },
+    "wp-content/themes/ambons-wp-full/ambons/assets/fonts/flaticon.woff": {
+      "target": "assets/original/themes/ambons-wp-full/ambons/assets/fonts/flaticon.woff",
+      "sha256": "f0ed09080be33d73eff29ebb3603141259c79d7dd3a6acd91bc38891bd282ac7",
+      "size": 23156,
+      "dimensions": null
+    },
+    "wp-content/themes/ambons-wp-full/ambons/assets/fonts/flaticon.ttf": {
+      "target": "assets/original/themes/ambons-wp-full/ambons/assets/fonts/flaticon.ttf",
+      "sha256": "601fb482e6a436a18eeeb31264042c91fcc7ea80dc975eea7d5283e8fafe3027",
+      "size": 53904,
+      "dimensions": null
+    },
+    "wp-content/themes/ambons-wp-full/ambons/assets/fonts/fontawesome-webfont.eot": {
+      "target": "assets/original/themes/ambons-wp-full/ambons/assets/fonts/fontawesome-webfont.eot",
+      "sha256": "e219ece8f4d3e4ac455ef31cd3a7c7b5057ea68a109937fc26b03c6e99ee9322",
+      "size": 70807,
+      "dimensions": null
+    },
+    "wp-content/themes/ambons-wp-full/ambons/assets/fonts/fontawesome-webfont.woff2": {
+      "target": "assets/original/themes/ambons-wp-full/ambons/assets/fonts/fontawesome-webfont.woff2",
+      "sha256": "ff82aeed6b9bb6701696c84d1b223d2e682eb78c89117a438ce6cfea8c498995",
+      "size": 66624,
+      "dimensions": null
+    },
+    "wp-content/themes/ambons-wp-full/ambons/assets/fonts/fontawesome-webfont.woff": {
+      "target": "assets/original/themes/ambons-wp-full/ambons/assets/fonts/fontawesome-webfont.woff",
+      "sha256": "c812ddc9e475d3e65d68a6b3b589ce598a2a5babb7afc55477d59215c4a38a40",
+      "size": 83588,
+      "dimensions": null
+    },
+    "wp-content/themes/ambons-wp-full/ambons/assets/fonts/fontawesome-webfont.ttf": {
+      "target": "assets/original/themes/ambons-wp-full/ambons/assets/fonts/fontawesome-webfont.ttf",
+      "sha256": "7b5a4320fba0d4c8f79327645b4b9cc875a2ec617a557e849b813918eb733499",
+      "size": 142072,
+      "dimensions": null
+    },
+    "wp-content/themes/ambons-wp-full/ambons/assets/fonts/icomoon.eot": {
+      "target": "assets/original/themes/ambons-wp-full/ambons/assets/fonts/icomoon.eot",
+      "sha256": "caa5027a0d61ae11669ee4eaea93bcc786e10adf5086f21fafd8bcc1402903f8",
+      "size": 19552,
+      "dimensions": null
+    },
+    "wp-content/themes/ambons-wp-full/ambons/assets/fonts/icomoon.ttf": {
+      "target": "assets/original/themes/ambons-wp-full/ambons/assets/fonts/icomoon.ttf",
+      "sha256": "546b84f1ad852b22d3dccaf86ea1877dccaaa63129f47f9d2b02f45ac11a2356",
+      "size": 19388,
+      "dimensions": null
+    },
+    "wp-content/themes/ambons-wp-full/ambons/assets/fonts/icomoon.woff": {
+      "target": "assets/original/themes/ambons-wp-full/ambons/assets/fonts/icomoon.woff",
+      "sha256": "2401757b58c8d2da8ffe4b2b09fe5334c9d048f1f15df3f8937efd67f1dfc843",
+      "size": 19464,
+      "dimensions": null
+    },
+    "wp-content/themes/ambons-wp-full/ambons/assets/images/icon/icon-cross.png": {
+      "target": "assets/original/themes/ambons-wp-full/ambons/assets/images/icon/icon-cross.png",
+      "sha256": "16a3981bbad26ee31e13620b5fcd3e19a23fdbd351c6134f859ffe057f34d942",
+      "size": 1132,
+      "dimensions": [
+        40,
+        40
+      ]
+    },
+    "wp-content/themes/ambons-wp-full/ambons/assets/images/icon/cross-out.png": {
+      "target": "assets/original/themes/ambons-wp-full/ambons/assets/images/icon/cross-out.png",
+      "sha256": "a39fc0ee1c339bb2a951ab9fa9de737caeeb35d99f59ffd18a09712a0e47bcb8",
+      "size": 413,
+      "dimensions": [
+        24,
+        24
+      ]
+    },
+    "wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.eot": {
+      "target": "assets/original/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.eot",
+      "sha256": "52633a4bd205e19c3cd09c8d2ee281557bc6242a99e7f69cad6c49a4d1fa9c06",
+      "size": 151556,
+      "dimensions": null
+    },
+    "wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff2": {
+      "target": "assets/original/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff2",
+      "sha256": "6b2680fab784d245cbb23d3b51e8d18740e8fc1c7c1c8eadcf0b2b7612125ff8",
+      "size": 81612,
+      "dimensions": null
+    },
+    "wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff": {
+      "target": "assets/original/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff",
+      "sha256": "284ec4299d1c93376385ef74c2aeaf7af4e1c6e63f5163a5e1e85ab4c5c79d76",
+      "size": 97804,
+      "dimensions": null
+    },
+    "wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.ttf": {
+      "target": "assets/original/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.ttf",
+      "sha256": "7c6ce17d6e55fb2b5267880fd0939c7e2be6de99bb57fa56a7fe2f40146c0137",
+      "size": 151368,
+      "dimensions": null
+    },
+    "wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.eot": {
+      "target": "assets/original/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.eot",
+      "sha256": "cf83ffb8cf0023bd439dfdd5d02f1954b6ee027e85897d6cfc5f90bbca9ec1d2",
+      "size": 34034,
+      "dimensions": null
+    },
+    "wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.woff2": {
+      "target": "assets/original/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.woff2",
+      "sha256": "8afc6e5e842baab16010c2ce6fcf48ec4ded8e1579a37c1f1bc027e120d04951",
+      "size": 13276,
+      "dimensions": null
+    },
+    "wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.woff": {
+      "target": "assets/original/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.woff",
+      "sha256": "14c9db4ff87fde08f67b0a69dd594bab6d87174812a0dbd34c59833bfed8cc0e",
+      "size": 16276,
+      "dimensions": null
+    },
+    "wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.ttf": {
+      "target": "assets/original/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.ttf",
+      "sha256": "c651b8a67d3193206f622c3c3b0fbca4a2f2727108c4212b52c1e2a2e84c9b31",
+      "size": 33736,
+      "dimensions": null
+    },
+    "wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot": {
+      "target": "assets/original/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot",
+      "sha256": "75a761159ae266c5332a4f266e07a5543712ffb76ee0260b07782195c04dc364",
+      "size": 203030,
+      "dimensions": null
+    },
+    "wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff2": {
+      "target": "assets/original/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff2",
+      "sha256": "d0b4256abed72481585662971262eabee345c19f837af00d7ce24239d3b40eef",
+      "size": 78196,
+      "dimensions": null
+    },
+    "wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff": {
+      "target": "assets/original/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff",
+      "sha256": "74edc18b67c487e32f181719fdb347e2e77020744651f446e9acd7bd6821e2e7",
+      "size": 101652,
+      "dimensions": null
+    },
+    "wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.ttf": {
+      "target": "assets/original/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.ttf",
+      "sha256": "3d06af1f31cd83ace7a265a014b8fb5dee15770ecac8f7a55555190e627e03c2",
+      "size": 202744,
+      "dimensions": null
+    },
+    "wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkc3kawzu.woff2": {
+      "target": "assets/original/uploads/elementor/google-fonts/fonts/roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkc3kawzu.woff2",
+      "sha256": "fbeb2620ecd7451cd9f27a70e7ec39e1597cb33fd36be9424bf97a18c0e2e786",
+      "size": 39456,
+      "dimensions": null
+    },
+    "wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkankawzu.woff2": {
+      "target": "assets/original/uploads/elementor/google-fonts/fonts/roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkankawzu.woff2",
+      "sha256": "a5ee960e6273ecaa1787150604d18a2be3fad74cf76936f916ed8b235a4106bb",
+      "size": 24576,
+      "dimensions": null
+    },
+    "wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkcnkawzu.woff2": {
+      "target": "assets/original/uploads/elementor/google-fonts/fonts/roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkcnkawzu.woff2",
+      "sha256": "68ab4e107fc1d8d32d358b0e8c8182921e7934e4fc672f3805dfa9a16946a9fb",
+      "size": 4468,
+      "dimensions": null
+    },
+    "wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkbxkawzu.woff2": {
+      "target": "assets/original/uploads/elementor/google-fonts/fonts/roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkbxkawzu.woff2",
+      "sha256": "baac6db7ec159297d2fe9d313222d826e76b09fd72be43530b632059d482c02d",
+      "size": 18800,
+      "dimensions": null
+    },
+    "wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkenkawzu.woff2": {
+      "target": "assets/original/uploads/elementor/google-fonts/fonts/roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkenkawzu.woff2",
+      "sha256": "8754810078212d20cc4d3e96f6c4fd2d2252e06263617681ebd1cfae813b68b2",
+      "size": 44336,
+      "dimensions": null
+    },
+    "wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkahkawzu.woff2": {
+      "target": "assets/original/uploads/elementor/google-fonts/fonts/roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkahkawzu.woff2",
+      "sha256": "900190befc0dfe4ae99fefcbe7f72425c48a61ebe3ff00bbe93b0287e0007c97",
+      "size": 22288,
+      "dimensions": null
+    },
+    "wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkcxkawzu.woff2": {
+      "target": "assets/original/uploads/elementor/google-fonts/fonts/roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkcxkawzu.woff2",
+      "sha256": "a0435a376ff703ac8ceedd566f18e3b025d91f35349b21968a09d65080fac0b6",
+      "size": 13888,
+      "dimensions": null
+    },
+    "wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkchkawzu.woff2": {
+      "target": "assets/original/uploads/elementor/google-fonts/fonts/roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkchkawzu.woff2",
+      "sha256": "b9acf16c2906a6b95c31bf7cd8b417bfc32f83216a50d70c0cd41e57a1922f4a",
+      "size": 28536,
+      "dimensions": null
+    },
+    "wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkbnka.woff2": {
+      "target": "assets/original/uploads/elementor/google-fonts/fonts/roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkbnka.woff2",
+      "sha256": "9ec9eb9108f1752c30ba316606858d685a112a609d8bef1fb3d5d32c8e0b6507",
+      "size": 44192,
+      "dimensions": null
+    },
+    "wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3gubgee.woff2": {
+      "target": "assets/original/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3gubgee.woff2",
+      "sha256": "3a8eee8312b77ac2ef2dc2e01fdddf8ede8a4f72bf1a08d40745d8b432386fdf",
+      "size": 35568,
+      "dimensions": null
+    },
+    "wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3iubgee.woff2": {
+      "target": "assets/original/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3iubgee.woff2",
+      "sha256": "c06ca3fcbc5f7c37ebb7c86a69502009911ecd8183811bae02f9b1fbb0541ddb",
+      "size": 22796,
+      "dimensions": null
+    },
+    "wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3cubgee.woff2": {
+      "target": "assets/original/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3cubgee.woff2",
+      "sha256": "d94ccab74005ea632c5680d33d34586634ded595035990fa2cfef2f1e1cccb55",
+      "size": 4340,
+      "dimensions": null
+    },
+    "wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3-ubgee.woff2": {
+      "target": "assets/original/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3-ubgee.woff2",
+      "sha256": "31c5962274d8bd31cbf72f45aaa615f33f230088491b4ee5d9f544fef10c418e",
+      "size": 17628,
+      "dimensions": null
+    },
+    "wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluamawcubgee.woff2": {
+      "target": "assets/original/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluamawcubgee.woff2",
+      "sha256": "d758e85352971dffe51a5992405eb8f9b316b1bed82495445c328699ee400830",
+      "size": 40572,
+      "dimensions": null
+    },
+    "wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluamaxkubgee.woff2": {
+      "target": "assets/original/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluamaxkubgee.woff2",
+      "sha256": "e921785496ed2d98c2257c88a6f838afa6acbee05cb8467048501bfe2a301461",
+      "size": 20408,
+      "dimensions": null
+    },
+    "wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3oubgee.woff2": {
+      "target": "assets/original/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3oubgee.woff2",
+      "sha256": "38ca68052df6bb72126ff9cedd7d78d2afe62079e9149ddedf650ae8f4c744cf",
+      "size": 13004,
+      "dimensions": null
+    },
+    "wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3kubgee.woff2": {
+      "target": "assets/original/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3kubgee.woff2",
+      "sha256": "884933fb5789b478d2da68a4cb0bd5cc138d995f1fea9a957ba29cb3c00f1bf7",
+      "size": 26428,
+      "dimensions": null
+    },
+    "wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3yuba.woff2": {
+      "target": "assets/original/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3yuba.woff2",
+      "sha256": "20b535fa80c8189e3b87d1803038389960203a886d502bc2ef1857affc2f38d2",
+      "size": 40128,
+      "dimensions": null
+    },
+    "wp-content/uploads/elementor/google-fonts/fonts/robotoslab-bngmuxzytxpivibgjjsb6ufa5qw54a.woff2": {
+      "target": "assets/original/uploads/elementor/google-fonts/fonts/robotoslab-bngmuxzytxpivibgjjsb6ufa5qw54a.woff2",
+      "sha256": "09b79394660831abe425de3d999cf89844c100f31a0da97d0c71f12a005afdbf",
+      "size": 32284,
+      "dimensions": null
+    },
+    "wp-content/uploads/elementor/google-fonts/fonts/robotoslab-bngmuxzytxpivibgjjsb6ufj5qw54a.woff2": {
+      "target": "assets/original/uploads/elementor/google-fonts/fonts/robotoslab-bngmuxzytxpivibgjjsb6ufj5qw54a.woff2",
+      "sha256": "b914dc874c479f977f20ff2ac7e5e75871a6b8119fe4b671065126d6873e93f0",
+      "size": 21272,
+      "dimensions": null
+    },
+    "wp-content/uploads/elementor/google-fonts/fonts/robotoslab-bngmuxzytxpivibgjjsb6ufb5qw54a.woff2": {
+      "target": "assets/original/uploads/elementor/google-fonts/fonts/robotoslab-bngmuxzytxpivibgjjsb6ufb5qw54a.woff2",
+      "sha256": "7361486c87055d07878f8e758c916db8576c579ed3bdc209c19fd43063dd8e27",
+      "size": 2184,
+      "dimensions": null
+    },
+    "wp-content/uploads/elementor/google-fonts/fonts/robotoslab-bngmuxzytxpivibgjjsb6ufo5qw54a.woff2": {
+      "target": "assets/original/uploads/elementor/google-fonts/fonts/robotoslab-bngmuxzytxpivibgjjsb6ufo5qw54a.woff2",
+      "sha256": "1c0fd8b50a6f78fbcc46b942912284c79b85962667b7b63a0e0b229327521287",
+      "size": 14852,
+      "dimensions": null
+    },
+    "wp-content/uploads/elementor/google-fonts/fonts/robotoslab-bngmuxzytxpivibgjjsb6ufc5qw54a.woff2": {
+      "target": "assets/original/uploads/elementor/google-fonts/fonts/robotoslab-bngmuxzytxpivibgjjsb6ufc5qw54a.woff2",
+      "sha256": "4c2a824cab9799116baa8f7a85c7ca062fd67d1ee7b9bc6338ef3bcdae31fc16",
+      "size": 9872,
+      "dimensions": null
+    },
+    "wp-content/uploads/elementor/google-fonts/fonts/robotoslab-bngmuxzytxpivibgjjsb6ufd5qw54a.woff2": {
+      "target": "assets/original/uploads/elementor/google-fonts/fonts/robotoslab-bngmuxzytxpivibgjjsb6ufd5qw54a.woff2",
+      "sha256": "c5c268299cdaa725aa32d248338b0e9beadc9808da1124720204bac9b215d018",
+      "size": 20760,
+      "dimensions": null
+    },
+    "wp-content/uploads/elementor/google-fonts/fonts/robotoslab-bngmuxzytxpivibgjjsb6ufn5qu.woff2": {
+      "target": "assets/original/uploads/elementor/google-fonts/fonts/robotoslab-bngmuxzytxpivibgjjsb6ufn5qu.woff2",
+      "sha256": "a8e429611131e3fdc2018ec943a36100dbabb4aaa788c8dead6bdcf927917293",
+      "size": 34328,
+      "dimensions": null
+    },
+    "wp-content/uploads/2025/12/Five-Boroughs-Final-01-scaled-e1765373294406.png": {
+      "target": "assets/original/uploads/2025/12/Five-Boroughs-Final-01-scaled-e1765373294406.png",
+      "sha256": "9887d3e2b62e153396b381ff94e7fec6b5a2475d8b00f2ea5d4637a58e4535f2",
+      "size": 235164,
+      "dimensions": [
+        1160,
+        1143
+      ]
+    },
+    "wp-content/uploads/2026/01/Untitled-design.gif": {
+      "target": "assets/original/uploads/2026/01/Untitled-design.gif",
+      "sha256": "83a61a37a9c93d6613bdb156829e5837c67f5c6b54d6dd9d0ac5686dd22d6984",
+      "size": 5811823,
+      "dimensions": [
+        1920,
+        1080
+      ]
+    },
+    "wp-content/uploads/2025/05/privacy.png": {
+      "target": "assets/original/uploads/2025/05/privacy.png",
+      "sha256": "1d6d7c875768d37c30b61e4ed80b032bdccb273a2bae3de2bed23e989efe99da",
+      "size": 1676458,
+      "dimensions": [
+        1920,
+        400
+      ]
+    },
+    "wp-content/uploads/2025/12/cropped-Five-Boroughs-Final-01-1-scaled-1-e1765371404814.png": {
+      "target": "assets/original/uploads/2025/12/cropped-Five-Boroughs-Final-01-1-scaled-1-e1765371404814.png",
+      "sha256": "9be0da8c007aac709ecac913b85afed05c41d70559a709e947f217902a6c625a",
+      "size": 73777,
+      "dimensions": [
+        397,
+        415
+      ]
+    },
+    "wp-content/uploads/2025/12/Five-Boroughs-Final-01-scaled.png": {
+      "target": "assets/original/uploads/2025/12/Five-Boroughs-Final-01-scaled.png",
+      "sha256": "558a5520cd8bf4dc3b639f8406d6ae1a05101d87638137958d9dc6543c932da3",
+      "size": 257693,
+      "dimensions": [
+        2560,
+        1440
+      ]
+    },
+    "wp-content/uploads/2025/04/fiveb.png": {
+      "target": "assets/original/uploads/2025/04/fiveb.png",
+      "sha256": "be75e144e34bf0428f70a36f634e755546522fc2a94b1421b671b7c467609c64",
+      "size": 1104480,
+      "dimensions": [
+        1262,
+        527
+      ]
+    },
+    "wp-content/uploads/2025/04/FBTA-2.png": {
+      "target": "assets/original/uploads/2025/04/FBTA-2.png",
+      "sha256": "98d1e66236202db68fc135b63448e50aa649898c6385af30c5c6604a2ce50945",
+      "size": 169092,
+      "dimensions": [
+        1920,
+        800
+      ]
+    },
+    "wp-content/uploads/2022/03/fb9.jpg": {
+      "target": "assets/original/uploads/2022/03/fb9.jpg",
+      "sha256": "2740180bd7ebeb79db650f51ca3f56009f6eb9e8a996c39ca82e38050aa77bf7",
+      "size": 28128,
+      "dimensions": [
+        370,
+        315
+      ]
+    },
+    "wp-content/uploads/2022/03/4-370x315.webp": {
+      "target": "assets/original/uploads/2022/03/4-370x315.webp",
+      "sha256": "2baf9915cdb525fb0a9624e0af9fcf9e887b467735f2cb24fd79ce1220e98b06",
+      "size": 17598,
+      "dimensions": [
+        370,
+        315
+      ]
+    },
+    "wp-content/uploads/2022/03/mech-370x315.png": {
+      "target": "assets/original/uploads/2022/03/mech-370x315.png",
+      "sha256": "5dec47b7c7f1283cc795368a61d7be44e7e36586e85c894305201ab19789ff02",
+      "size": 189553,
+      "dimensions": [
+        370,
+        315
+      ]
+    },
+    "wp-content/uploads/2025/05/dd.png": {
+      "target": "assets/original/uploads/2025/05/dd.png",
+      "sha256": "981903d702faccc5494159c6af2ecd282145ee476f9ddd82fc89a51ea2934324",
+      "size": 331114,
+      "dimensions": [
+        470,
+        585
+      ]
+    },
+    "wp-content/uploads/2022/03/DNC-2-480x335.png": {
+      "target": "assets/original/uploads/2022/03/DNC-2-480x335.png",
+      "sha256": "c8c62b9b9a249de93ffc8d09826dc5a3a531e5082b9887ddeebc3ca3b3d29037",
+      "size": 225663,
+      "dimensions": [
+        480,
+        335
+      ]
+    },
+    "wp-content/themes/ambons-wp-full/ambons/assets/images/icon/quote.png": {
+      "target": "assets/original/themes/ambons-wp-full/ambons/assets/images/icon/quote.png",
+      "sha256": "014067623e372e6d8f0a2aa9b80d21e5a5138804dd4434ded03a9cb5631e8e28",
+      "size": 1219,
+      "dimensions": [
+        23,
+        19
+      ]
+    },
+    "wp-content/uploads/2022/03/tess-2-480x335.png": {
+      "target": "assets/original/uploads/2022/03/tess-2-480x335.png",
+      "sha256": "4f2a70f63aa910ab94a1114ec2f6c36c18cff410f86efef4f3a694119f579683",
+      "size": 246123,
+      "dimensions": [
+        480,
+        335
+      ]
+    },
+    "wp-content/uploads/2022/03/FH-480x335.png": {
+      "target": "assets/original/uploads/2022/03/FH-480x335.png",
+      "sha256": "e4a108eb261022b7f9dc21c7653c63706b40c90a2cf0207a10c7223a39336d0a",
+      "size": 157478,
+      "dimensions": [
+        480,
+        335
+      ]
+    },
+    "wp-content/uploads/2026/01/MK-Five-Boroughs-Alpha-Giff-ID.gif": {
+      "target": "assets/original/uploads/2026/01/MK-Five-Boroughs-Alpha-Giff-ID.gif",
+      "sha256": "7eea84e287ad776715344244a0cf6b0f80052c3903681828e4554389202a3247",
+      "size": 24960160,
+      "dimensions": [
+        1920,
+        1080
+      ]
+    },
+    "wp-content/uploads/2022/02/about-style3__image-1.jpg": {
+      "target": "assets/original/uploads/2022/02/about-style3__image-1.jpg",
+      "sha256": "da0e812a42757a403a03b3e9a3a16e3d4e34edd8f9559e3c08e68502d74ef66a",
+      "size": 48651,
+      "dimensions": [
+        510,
+        585
+      ]
+    },
+    "wp-content/uploads/2022/02/brand-logo-1.png": {
+      "target": "assets/original/uploads/2022/02/brand-logo-1.png",
+      "sha256": "b0093f9ded0f4405fc5dc92ab73904fceef5ef657791203f7b385acbada6d5d6",
+      "size": 2706,
+      "dimensions": [
+        170,
+        70
+      ]
+    },
+    "wp-content/uploads/2022/02/brand-logo-2.png": {
+      "target": "assets/original/uploads/2022/02/brand-logo-2.png",
+      "sha256": "d59a6213f2eeba1536c0fa0ebbef082524d662a42498da56fdc743fa9a4eab07",
+      "size": 4309,
+      "dimensions": [
+        170,
+        70
+      ]
+    },
+    "wp-content/uploads/2022/02/brand-logo-3.png": {
+      "target": "assets/original/uploads/2022/02/brand-logo-3.png",
+      "sha256": "0f3f6bb66eb40921173fced9a7cfa9849c1f215903643af48f958f027959f272",
+      "size": 4288,
+      "dimensions": [
+        170,
+        70
+      ]
+    },
+    "wp-content/uploads/2022/02/brand-logo-4.png": {
+      "target": "assets/original/uploads/2022/02/brand-logo-4.png",
+      "sha256": "c443f5aced5bf933bb30165716ac2cac0daf51f4bd11291f187a924ac00fd7a8",
+      "size": 5072,
+      "dimensions": [
+        170,
+        70
+      ]
+    },
+    "wp-content/uploads/2022/02/brand-logo-5.png": {
+      "target": "assets/original/uploads/2022/02/brand-logo-5.png",
+      "sha256": "e02505e199660c9ef55d37675b50d37a29edf9e34278c8952fd2fea262d71813",
+      "size": 2643,
+      "dimensions": [
+        170,
+        70
+      ]
+    },
+    "wp-content/uploads/2025/04/FB11.jpg": {
+      "target": "assets/original/uploads/2025/04/FB11.jpg",
+      "sha256": "a81b14fde86aacd054b679a80741f183b5950edcce778298092d073b9a1c859d",
+      "size": 66296,
+      "dimensions": [
+        770,
+        460
+      ]
+    },
+    "wp-content/uploads/2025/05/PART.LOGO_.png": {
+      "target": "assets/original/uploads/2025/05/PART.LOGO_.png",
+      "sha256": "d4215d2531734c9107ba5048562099d624b78ecf3cff6179d85c2fe84c209ede",
+      "size": 4359,
+      "dimensions": [
+        170,
+        170
+      ]
+    },
+    "wp-content/uploads/2025/05/hiring-2.png": {
+      "target": "assets/original/uploads/2025/05/hiring-2.png",
+      "sha256": "a66d8b5b7560b57c7e1757dd28e5e81e8c9003e07ba05c94fa905e0897fd1f7b",
+      "size": 1101875,
+      "dimensions": [
+        1920,
+        400
+      ]
+    },
+    "wp-content/uploads/2022/03/breadcrumb-1.jpg": {
+      "target": "assets/original/uploads/2022/03/breadcrumb-1.jpg",
+      "sha256": "424ba744e866b3b46d5a0fcd8c98dc794bcc9d18fd07c09e9b5ae8b723483c26",
+      "size": 231946,
+      "dimensions": [
+        1920,
+        400
+      ]
+    },
+    "wp-content/uploads/2022/02/testimonial-v2-1.jpg": {
+      "target": "assets/original/uploads/2022/02/testimonial-v2-1.jpg",
+      "sha256": "fb4e189296d321da08a11209c9b0997b4f024ae4d49bd29c2b0b8cf033e9f81f",
+      "size": 14937,
+      "dimensions": [
+        170,
+        170
+      ]
+    },
+    "wp-content/uploads/2022/03/Sans-titre-170-x-170-px.png": {
+      "target": "assets/original/uploads/2022/03/Sans-titre-170-x-170-px.png",
+      "sha256": "f617b8cf48d9df1a7fa4370f77f41af5e442f0dbf7f2b08d41ec1aaadfd74c94",
+      "size": 43344,
+      "dimensions": [
+        170,
+        170
+      ]
+    },
+    "wp-content/uploads/2022/03/Sans-titre-170-x-170-px-1.png": {
+      "target": "assets/original/uploads/2022/03/Sans-titre-170-x-170-px-1.png",
+      "sha256": "d4b64eb60f7bffa366e52e4e9370347e85e9d6a5806ff96d6a6dceb867c1b5cc",
+      "size": 40580,
+      "dimensions": [
+        170,
+        170
+      ]
+    },
+    "wp-content/uploads/2025/05/bbnm.png": {
+      "target": "assets/original/uploads/2025/05/bbnm.png",
+      "sha256": "50ce09fe47906182200e2be784919b354cfdaf279ecf78060eb6bc2bee80ac19",
+      "size": 398250,
+      "dimensions": [
+        770,
+        460
+      ]
+    },
+    "wp-content/uploads/2025/05/MAP.png": {
+      "target": "assets/original/uploads/2025/05/MAP.png",
+      "sha256": "4f1c8003dbcfe16e5a96a8cbba8a5a59f04a57312e82f0aa4124532d5798df86",
+      "size": 206029,
+      "dimensions": [
+        370,
+        320
+      ]
+    },
+    "wp-content/uploads/2025/05/medk.png": {
+      "target": "assets/original/uploads/2025/05/medk.png",
+      "sha256": "c174ba36b77d17fbad3fcecf9de6eb3676df442b924526b4fbbfdf167cff67e2",
+      "size": 1016885,
+      "dimensions": [
+        1920,
+        400
+      ]
+    },
+    "wp-content/uploads/2026/01/2-scaled.webp": {
+      "target": "assets/original/uploads/2026/01/2-scaled.webp",
+      "sha256": "e024cf29421632f71f1c40deb7b64f5ba9af9e2cda285c3b9b3ceeab07af51db",
+      "size": 280262,
+      "dimensions": [
+        2560,
+        1516
+      ]
+    },
+    "wp-content/uploads/2025/05/Sans-titre-570-x-600-px-3.png": {
+      "target": "assets/original/uploads/2025/05/Sans-titre-570-x-600-px-3.png",
+      "sha256": "fb1e75e7465d681de6e563c84ffd662628c402c5cbcb3982be95830e449aca44",
+      "size": 304945,
+      "dimensions": [
+        370,
+        320
+      ]
+    },
+    "wp-content/uploads/2025/05/Sans-titre-570-x-600-px-1920-x-400-px.png": {
+      "target": "assets/original/uploads/2025/05/Sans-titre-570-x-600-px-1920-x-400-px.png",
+      "sha256": "c3628f7175837c51e74a2a81eabc997129b60abe48b2599f3aeaebe2ba92daed",
+      "size": 659290,
+      "dimensions": [
+        1920,
+        400
+      ]
+    },
+    "wp-content/uploads/2025/04/FB12.jpg": {
+      "target": "assets/original/uploads/2025/04/FB12.jpg",
+      "sha256": "e0ea45fbf1d8c01675b8ba008c5fe11c21eef2391f9fe56b259f380a2942d139",
+      "size": 29493,
+      "dimensions": [
+        370,
+        320
+      ]
+    },
+    "wp-content/uploads/2025/05/SERVICES-FB.png": {
+      "target": "assets/original/uploads/2025/05/SERVICES-FB.png",
+      "sha256": "01d57e22d7710d8ac3cf7c47c7b51997b6195efdc6f933348b7607cb4bba44b3",
+      "size": 1641044,
+      "dimensions": [
+        1920,
+        400
+      ]
+    },
+    "wp-content/uploads/2026/01/ccficffhlcdkmqvwe4bg.webp": {
+      "target": "assets/original/uploads/2026/01/ccficffhlcdkmqvwe4bg.webp",
+      "sha256": "c7b8b714526f95ff1feaa669ea3e681c355254a85163005e4ede28abd6b74c4a",
+      "size": 35070,
+      "dimensions": [
+        745,
+        463
+      ]
+    },
+    "wp-content/uploads/2026/01/6-scaled.webp": {
+      "target": "assets/original/uploads/2026/01/6-scaled.webp",
+      "sha256": "36c14881060d49a94506097ff38ed54652651cd542f5323871a7d6b5c6422cc0",
+      "size": 619468,
+      "dimensions": [
+        1707,
+        2560
+      ]
+    },
+    "wp-content/uploads/2022/02/team-v1-6.jpg": {
+      "target": "assets/original/uploads/2022/02/team-v1-6.jpg",
+      "sha256": "76a73578117cd540e21e30e43c6ff29cf628c31969bbf7f18f0ef286f98b8412",
+      "size": 70841,
+      "dimensions": [
+        370,
+        445
+      ]
+    },
+    "wp-content/uploads/2022/03/FB4-370x445.jpg": {
+      "target": "assets/original/uploads/2022/03/FB4-370x445.jpg",
+      "sha256": "6a965c4253c80f9ed71622ff540b352dcbcc01a476a38fca0dcc8a9658d687ba",
+      "size": 21566,
+      "dimensions": [
+        370,
+        445
+      ]
+    },
+    "wp-content/uploads/2022/03/tess-1-370x445.png": {
+      "target": "assets/original/uploads/2022/03/tess-1-370x445.png",
+      "sha256": "ab5d3789ee85ca7559b07384ed6b2fd9e3052ad8cc47cd94e62bd254d699f479",
+      "size": 217853,
+      "dimensions": [
+        370,
+        445
+      ]
+    },
+    "wp-content/uploads/2025/05/dd-370x445.png": {
+      "target": "assets/original/uploads/2025/05/dd-370x445.png",
+      "sha256": "2d54e577063799a9e284f83c12839e907b8561bbbe52c6f2dce315d83957e138",
+      "size": 204695,
+      "dimensions": [
+        370,
+        445
+      ]
+    },
+    "wp-content/uploads/2025/11/MessagesApk-2025-11-18-10-29-15-7-scaled-e1763650589640.jpg": {
+      "target": "assets/original/uploads/2025/11/MessagesApk-2025-11-18-10-29-15-7-scaled-e1763650589640.jpg",
+      "sha256": "11e0aeab0ef3bfcd1ec72b0560c64992e2ebc54ea4391958a926bb01774122a5",
+      "size": 88643,
+      "dimensions": [
+        1010,
+        1062
+      ]
+    },
+    "wp-content/uploads/2022/03/FH-170x170.png": {
+      "target": "assets/original/uploads/2022/03/FH-170x170.png",
+      "sha256": "90a744c2991ea62fa6f067701db7010caf68f4755c1bc95ce1cf87276670a025",
+      "size": 38306,
+      "dimensions": [
+        170,
+        170
+      ]
+    },
+    "wp-content/uploads/2025/05/hiring.png": {
+      "target": "assets/original/uploads/2025/05/hiring.png",
+      "sha256": "541c1dca7594d4debb51ad12927ea7288b97372809e4e14f9c6c8d7f40110e28",
+      "size": 1178174,
+      "dimensions": [
+        1920,
+        400
+      ]
+    },
+    "wp-content/uploads/2025/05/Sans-titre-570-x-600-px.png": {
+      "target": "assets/original/uploads/2025/05/Sans-titre-570-x-600-px.png",
+      "sha256": "71161ee7bd6ef8e63d0c43de89b9e66d3d884075ec253a381e035efac797053c",
+      "size": 439349,
+      "dimensions": [
+        570,
+        600
+      ]
+    },
+    "wp-content/uploads/2025/05/CONTACT-FB.png": {
+      "target": "assets/original/uploads/2025/05/CONTACT-FB.png",
+      "sha256": "ffc13527239e0e6c97037f9db17999e252f7bcc14d2a2e5f132aac3397b97040",
+      "size": 1624356,
+      "dimensions": [
+        1920,
+        400
+      ]
+    },
+    "wp-content/uploads/2025/04/FB1.jpg": {
+      "target": "assets/original/uploads/2025/04/FB1.jpg",
+      "sha256": "2702d56ed9084ca312526a43fd3a33f2dda6874e748cf0e843d70e2cead4521a",
+      "size": 557261,
+      "dimensions": [
+        1920,
+        800
+      ]
+    },
+    "wp-content/uploads/2025/05/dispatcher.png": {
+      "target": "assets/original/uploads/2025/05/dispatcher.png",
+      "sha256": "c3df21a0c8d2a5f1b3626de4cd4c76002eb47137ba9ef8583d5458f3a5251359",
+      "size": 929456,
+      "dimensions": [
+        1920,
+        400
+      ]
+    },
+    "wp-content/uploads/2025/04/Sans-titre-841-x-356-px-2.png": {
+      "target": "assets/original/uploads/2025/04/Sans-titre-841-x-356-px-2.png",
+      "sha256": "180b955b69b0e5280afe22202b2fdd8d217bff4d14bf3b57dee8b87eb907001f",
+      "size": 18275,
+      "dimensions": [
+        460,
+        252
+      ]
+    }
+  },
+  "restored_google_fonts": {
+    "downloaded_date": "2026-11-03",
+    "css_url": "https://fonts.googleapis.com/css2?family=Catamaran:wght@300..900&family=Caveat:wght@400..700&family=Kumbh+Sans:wght@300..900&display=swap",
+    "files": [
+      {
+        "url": "https://fonts.gstatic.com/s/catamaran/v28/o-0IIpQoyXQa2RxT7-5r8zRAW_0.woff2",
+        "bytes": 42416,
+        "sha256": "0cd49a6ece408c486f107a13d2155f4fc34ecb6ae3644d13fe402a1836d10c2f",
+        "families": [
+          "Catamaran Thin"
+        ],
+        "target": "assets/restored-fonts/c52ae1efecc2.woff2"
+      },
+      {
+        "url": "https://fonts.gstatic.com/s/catamaran/v28/o-0IIpQoyXQa2RxT7-5r6zRAW_0.woff2",
+        "bytes": 15560,
+        "sha256": "92f5f434013a07b84d4d9691236f4d3357f9751d9a39c47d9091fa61bbe2549d",
+        "families": [
+          "Catamaran Thin"
+        ],
+        "target": "assets/restored-fonts/93a9d902a1cd.woff2"
+      },
+      {
+        "url": "https://fonts.gstatic.com/s/catamaran/v28/o-0IIpQoyXQa2RxT7-5r5TRA.woff2",
+        "bytes": 32920,
+        "sha256": "e6e610cc13a04c3f9c72baa941b8a34fc32beae1e7eecbc900825cd765139015",
+        "families": [
+          "Catamaran Thin"
+        ],
+        "target": "assets/restored-fonts/4dddcff7dafd.woff2"
+      },
+      {
+        "url": "https://fonts.gstatic.com/s/caveat/v23/Wnz6HAc5bAfYB2Q7azYYmg8.woff2",
+        "bytes": 42856,
+        "sha256": "4956ec7b19798cb8418f2e44349e90c0ab7310594350c4b9c2998dc092122d5a",
+        "families": [
+          "Caveat"
+        ],
+        "target": "assets/restored-fonts/cd487a25742f.woff2"
+      },
+      {
+        "url": "https://fonts.gstatic.com/s/caveat/v23/Wnz6HAc5bAfYB2Q7YjYYmg8.woff2",
+        "bytes": 77216,
+        "sha256": "6276a2f5a5554c16b422f00f114773a8d4013a81df18a338f7c216d80103c9af",
+        "families": [
+          "Caveat"
+        ],
+        "target": "assets/restored-fonts/9518b278916e.woff2"
+      },
+      {
+        "url": "https://fonts.gstatic.com/s/caveat/v23/Wnz6HAc5bAfYB2Q7aDYYmg8.woff2",
+        "bytes": 29472,
+        "sha256": "f626b95c1efa95cf6b7c9b043d3bbe8862b6abbe5f55a082102f33f7de2fd4f9",
+        "families": [
+          "Caveat"
+        ],
+        "target": "assets/restored-fonts/be7f9cabf437.woff2"
+      },
+      {
+        "url": "https://fonts.gstatic.com/s/caveat/v23/Wnz6HAc5bAfYB2Q7ZjYY.woff2",
+        "bytes": 74932,
+        "sha256": "891951df5e8b5b0f0bc760d31375405e795c666b5add70437de12d4a6482b33f",
+        "families": [
+          "Caveat"
+        ],
+        "target": "assets/restored-fonts/947ed15831ba.woff2"
+      },
+      {
+        "url": "https://fonts.gstatic.com/s/kumbhsans/v27/c4mw1n92AsfhuCq6tVsaoIx1LQICk0boNoq0ShMzVo0iPw.woff2",
+        "bytes": 23080,
+        "sha256": "afba4f7b8d7784bd417085805744e111c813269effcf1429d17ffa13a5bb4040",
+        "families": [
+          "Kumbh Sans"
+        ],
+        "target": "assets/restored-fonts/efd660630cb7.woff2"
+      },
+      {
+        "url": "https://fonts.gstatic.com/s/kumbhsans/v27/c4mw1n92AsfhuCq6tVsaoIx1LQICk0boNoq0ShMhVo0iPw.woff2",
+        "bytes": 13336,
+        "sha256": "9026a021afff0af0c99fbad3668cf0402b497cc580c46e94bd685a2e8065c9da",
+        "families": [
+          "Kumbh Sans"
+        ],
+        "target": "assets/restored-fonts/0c0cda7029dc.woff2"
+      },
+      {
+        "url": "https://fonts.gstatic.com/s/kumbhsans/v27/c4mw1n92AsfhuCq6tVsaoIx1LQICk0boNoq0ShNBVo0iPw.woff2",
+        "bytes": 15980,
+        "sha256": "51076410948bef96b68d11b95d5fce879d3f738298c125d3aa0e510870cf41b6",
+        "families": [
+          "Kumbh Sans"
+        ],
+        "target": "assets/restored-fonts/04ae927ddb34.woff2"
+      },
+      {
+        "url": "https://fonts.gstatic.com/s/kumbhsans/v27/c4mw1n92AsfhuCq6tVsaoIx1LQICk0boNoq0ShNPVo0.woff2",
+        "bytes": 29424,
+        "sha256": "d253244d475e8b0d5c521b1742f1ae3ec29280c113a6f29dad54bc4f320311d1",
+        "families": [
+          "Kumbh Sans"
+        ],
+        "target": "assets/restored-fonts/4dbab11ce1d5.woff2"
+      }
+    ],
+    "license_source": "https://github.com/google/fonts/tree/main/ofl",
+    "authorization": "Owner requested restoration of the original font families.",
+    "historical_binary_version_verified": false,
+    "theme_requested_families": {
+      "Kumbh Sans": "300-900",
+      "Catamaran": "300-900",
+      "Caveat": "400-700"
+    },
+    "licenses": [
+      {
+        "target": "assets/restored-fonts/LICENSE-kumbhsans.txt",
+        "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/kumbhsans/OFL.txt",
+        "sha256": "b7057fc68425720a92830bbd18b39f070d784a4551de7b0b7e1ad3cc6747d3fc"
+      },
+      {
+        "target": "assets/restored-fonts/LICENSE-catamaran.txt",
+        "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/catamaran/OFL.txt",
+        "sha256": "c88333734ad7cd30540ec6614d12aa829a0395715de30e336d22ddfa3005db42"
+      },
+      {
+        "target": "assets/restored-fonts/LICENSE-caveat.txt",
+        "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/caveat/OFL.txt",
+        "sha256": "1f9d81d094273d82f3898a1ee8b598a717d050ecbf5ff7bede105b704880157b"
+      }
+    ]
+  }
+}
